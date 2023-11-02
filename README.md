@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![william's GitHub stats](https://github-readme-stats-blond-phi-30.vercel.app/api?username=william20210206&show_icons=true&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB)
 
-[![Readme Card]([https://github-readme-stats.vercel.app](https://github-readme-stats-blond-phi-30.vercel.app)/api/pin/?username=william20210206&repo=github-readme-stats)](https://github.com/william20210206/github-readme-stats)
+[![Readme Card](https://github-readme-stats-blond-phi-30.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
