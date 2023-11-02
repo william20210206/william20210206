@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-![william's GitHub stats](https://github-readme-stats.vercel.app/api?username=william20210206&show_icons=true&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB)
+![william's GitHub stats](http://github-readme-stats-blond-phi-30.vercel.app/api?username=william20210206&show_icons=true&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=william20210206&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) 👋 -->
