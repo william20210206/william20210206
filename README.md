@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-![william's GitHub stats](https://github-readme-stats.vercel.app/api?username=william&show_icons=true)
+![william's GitHub stats](https://github-readme-stats.vercel.app/api?username=william20210206&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=william20210206&repo=github-readme-stats)](https://github.com/william20210206/github-readme-stats)
