@@ -23,5 +23,4 @@ Here are some ideas to get you started:
   -->
 
 ![william's GitHub stats](https://github-readme-stats.vercel.app/api?username=william20210206&show_icons=true)
-![william's GitHub stats](https://github-readme-repo.vercel.app/api?username=william20210206&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william20210206)](https://github.com/william20210206/github-readme-stats)
