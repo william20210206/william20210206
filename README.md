@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-![william's GitHub stats](https://github-readme-stats.vercel.app/api?username=william20210206&show_icons=true&bg_color=DEG,e86444,904E95)
+![william's GitHub stats](https://github-readme-stats.vercel.app/api?username=william20210206&show_icons=true&bg_color=DEG,e86444,904E95&title_color=F0E3EB&title_color=F0E3EB)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william20210206)](https://github.com/william20210206/github-readme-stats)
