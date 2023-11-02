@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=william20210206)](https://github.com/anuraghazra/github-readme-stats icons=true&theme=swift)
+  [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=william20210206)](https://github.com/anuraghazra/github-readme-stats)
