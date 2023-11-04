@@ -52,6 +52,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-blond-phi-30.vercel.app/api/pin/?username=william20210206&repo=william20210206.github.io&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB" />
 </a>
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=william20210206.william20210206" /> </div>
 
 
 ![亮色](https://raw.githubusercontent.com/william20210206/william20210206/output/github-contribution-grid-snake.svg)
