@@ -52,3 +52,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-blond-phi-30.vercel.app/api/pin/?username=william20210206&repo=william20210206.github.io&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB" />
 </a>
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/william20210206/william20210206/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/william20210206/william20210206/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/william20210206/william20210206/github-contribution-grid-snake.svg">
+</picture>
