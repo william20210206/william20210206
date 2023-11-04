@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/william20210206/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-blond-phi-30.vercel.app/api/top-langs/?username=william20210206&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB" />
+  <img align="center" src="https://github-readme-stats-blond-phi-30.vercel.app/api/top-langs/?username=william20210206&layout=compact&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB" />
 </a>
 
 <a href="https://github.com/william20210206/github-readme-stats">
