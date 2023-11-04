@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 ![暗色](https://raw.githubusercontent.com/william20210206/william20210206/output/github-contribution-grid-snake-dark.svg)
 -->
  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=william20210206.william20210206&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=william20210206&left_color=green&right_color=red)
