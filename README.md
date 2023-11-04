@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-blond-phi-30.vercel.app/api/top-langs/?username=william20210206&layout=pie&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Readme Card](https://github-readme-stats-blond-phi-30.vercel.app/api/pin/?username=william20210206&repo=github-readme-stats&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB)](https://github.com/william20210206/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats-blond-phi-30.vercel.app/api/pin/?username=william20210206&repo=william20210206.github.io&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB)](https://github.com/william20210206/github-readme-stats)
+-->
 
 
 <!--
@@ -39,6 +41,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/william20210206/github-readme-stats">
   <img align="center" src="https://github-readme-stats-blond-phi-30.vercel.app/api/top-langs/?username=william20210206&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB" />
 </a>
+-->
 
 <a href="https://github.com/william20210206/github-readme-stats">
   <img align="center" src="https://github-readme-stats-blond-phi-30.vercel.app/api/pin/?username=william20210206&repo=github-readme-stats&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB" />
@@ -47,4 +50,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/william20210206/github-readme-stats">
   <img align="center" src="https://github-readme-stats-blond-phi-30.vercel.app/api/pin/?username=william20210206&repo=william20210206.github.io&bg_color=DEG,e86444,904E95&title_color=F0E3EB&text_color=F0E3EB&icon_color=F0E3EB" />
 </a>
--->
+
